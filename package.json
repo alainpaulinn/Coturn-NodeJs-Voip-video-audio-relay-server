@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/alainpaulinn/Coturn-NodeJs-Voip-video-audio-relay-server/issues"
   },
-  "homepage": "https://github.com/alainpaulinn/Coturn-NodeJs-Voip-video-audio-relay-server#readme"
+  "homepage": "https://github.com/alainpaulinn/Coturn-NodeJs-Voip-video-audio-relay-server#readme",
+  "dependencies": {
+    "node-turn": "^0.0.6"
+  }
 }
