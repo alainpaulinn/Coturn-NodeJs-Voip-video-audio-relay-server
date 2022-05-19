@@ -1,0 +1,26 @@
+{
+  "name": "coturn-nodejs-voip-video-audio-relay-server",
+  "version": "1.0.0",
+  "description": "A nodejs TURN server for Imperiumline application designed to relay connection between peers in case one of the call/meeting participants is behind a Firewall operating on NAT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alainpaulinn/Coturn-NodeJs-Voip-video-audio-relay-server.git"
+  },
+  "keywords": [
+    "TURN",
+    "NODEJS",
+    "TURN-SERVER",
+    "WEBRTC",
+    "IMPERIUMLINE"
+  ],
+  "author": "Alain Paulin Niyonkuru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alainpaulinn/Coturn-NodeJs-Voip-video-audio-relay-server/issues"
+  },
+  "homepage": "https://github.com/alainpaulinn/Coturn-NodeJs-Voip-video-audio-relay-server#readme"
+}
